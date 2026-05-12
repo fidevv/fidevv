@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bagas Alfiandi Dewantara</h1>
+<h3 align="center">I am a student who is interested in new things, especially in the field of IT. And I want to keep learning.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 
 <!--
 **fidevv/fidevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
