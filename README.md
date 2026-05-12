@@ -33,7 +33,7 @@
   </a>
     <a href="https://www.linkedin.com/in/bagas-alfiandi-dewantara-12285440a" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/linked-in.svg" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Social/linked-in-alt.svg" 
       alt="Linkedin" 
       height="30" 
       width="40" 
